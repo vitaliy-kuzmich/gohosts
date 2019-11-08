@@ -1,0 +1,17 @@
+.DS_Store
+*/dist/*
+dist/*
+*.db
+*.db.lock
+*/.idea/*
+.idea
+.vscode
+Dockerfile
+browsefile
+rice-box.go
+vendor
+npm-debug.log*
+package-lock.json
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
